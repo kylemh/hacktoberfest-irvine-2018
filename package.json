@@ -1,0 +1,22 @@
+{
+  "name": "hacktoberfest-irvine-2018",
+  "version": "1.0.0",
+  "description": "MDX slide deck to open the event",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/kylemh/hacktoberfest-irvine-2018.git",
+  "keywords": [
+    "mdx"
+  ],
+  "author": "Kyle Holmberg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kylemh/hacktoberfest-irvine-2018/issues"
+  },
+  "homepage": "https://github.com/kylemh/hacktoberfest-irvine-2018#readme",
+  "devDependencies": {
+    "mdx-deck": "^1.7.7"
+  }
+}
